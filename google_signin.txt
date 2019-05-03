@@ -1,0 +1,26 @@
+1-goto and sign in:
+https://console.developers.google.com
+
+2-create a new Project give it a name
+
+3-goto:
+https://console.developers.google.com/apis/credentials/consent
+
+4-fill application name
+
+5-goto:
+https://console.developers.google.com/apis/credentials
+
+6-click on Create credentials
+
+7-click on OAuth client ID
+
+8-click on android
+
+9-in Signing-certificate fingerprint use the key I have provided.
+
+10-for Package name use the name I have provided.
+
+11-click on create(blue button)
+
+12-copy the client ID and send it to me

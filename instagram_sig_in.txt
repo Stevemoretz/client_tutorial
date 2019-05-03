@@ -1,0 +1,44 @@
+1-goto : 
+https://www.instagram.com/developer
+
+2-signin or signup then goto:
+https://www.instagram.com/developer/clients/manage/
+
+3-click on the green button saying:
+Register a new Client
+
+4-Fill the form like ( You fill ...):
+Application Name: ...
+Description: ...
+Company Name:...
+Website URL: https://www.instagram.com
+Valid redirect URIs:https://sm.steve.moretz.com
+Privacy Policy URL:https://www.instagram.com
+Contact email:...
+
+5-click on register
+
+6-in the new page click on MANAGE(the green button)
+
+7-goto the security tab
+
+8-Disable implicit OAuth:uncheck it
+
+9-press Update Client(green button)
+
+10-copy the CLIENT ID	...
+the ... is want you need to send me.
+
+Thank you!
+
+11-click on MANAGE(the green button)
+
+12-click on PERMISSIONS tab
+
+13-press start a submission.
+
+14-Fill the form and send the url I provided for you.
+
+15-After it got approved you can come back and click on Go Live
+
+16-That was all!
